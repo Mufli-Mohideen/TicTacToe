@@ -4,7 +4,7 @@
   <img src="https://drive.google.com/uc?id=1i-bUPGQGMY0dIH3289hWZz1miei_ihHg" alt="Tic-Tac-Toe" width="300" style="border-radius: 15px;">
 </p>
 
-<p align="center">Tic-Tac-Toe is a classic game implemented in Swift. This project showcases a simple yet engaging game where players can challenge each other on a 3x3 grid. The app features a clean and intuitive design with interactive gameplay.</p>
+<p align="justify">Tic-Tac-Toe is a classic game implemented in Swift. This project showcases a simple yet engaging game where players can challenge each other on a 3x3 grid. The app features a clean and intuitive design with interactive gameplay.</p>
 
 ---
 
